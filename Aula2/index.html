@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aula 02</title>
+  </head>
+  <body>
+    <form name="frmCadastro" id="cadastro" method="post" action="">
+      <label>Nome:</label>
+      <input
+        type="text"
+        name="txtNome"
+        value=""
+        placeholder="digite seu nome completo"
+      />
+      <br />
+      <label>Email:</label>
+      <input
+        type="email"
+        name="txtEmail"
+        value=""
+        placeholder="seunome@email.com"
+      />
+      <br />
+      <label>Celular:</label>
+      <input type="number" name="txtCelular" value="" />
+      <br />
+      <label>Escolha ume opção:</label>
+      <select name="sltTipocadastro">
+        <option>Elogio</option>
+        <option>Sugestão</option>
+        <option>Critica</option>
+      </select>
+      <br />
+      <label>Calendario</label>
+      <input type="date" name="sltCalendario" value="" />
+      <br />
+
+      <input type="submit" name="btnSalvar" value="Salvar" />
+    </form>
+  </body>
+</html>
