@@ -1,6 +1,6 @@
 <div style="background-color: #00FF00; width: 20%; height: 100%; position: fixed; left: 0;"></div>
 
-## 🌐 Projeto de Desenvolvimento Front End - Fecaf
+## 🌐 Projeto de Desenvolvimento Back End - Fecaf
 
 Este projeto é um repositório destinado a armazenar os códigos e projetos desenvolvidos durante as aulas de Desenvolvimento Front End do curso de Análise e Desenvolvimento de Sistemas da Fecaf. Aqui você pode encontrar exemplos de HTML, CSS, JavaScript, e outros recursos utilizados no decorrer das aulas.
 
